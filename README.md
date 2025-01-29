@@ -14,7 +14,7 @@ This project analyzes sales data for an entire year to compare **weekend** and *
 - **Conclusion**: **Sales on weekends are noticeably higher than on weekdays.**  
 
 #### **Files in this Repository**  
-📂 **sales_analysis.xlsx** - The raw sales data and pivot table analysis.  
+📂 **sales analysis.xlsx** - The raw sales data and pivot table analysis.  
 📂 **README.md** - Project details and summary.  
 
 #### **Tools Used**  
